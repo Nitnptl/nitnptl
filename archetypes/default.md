@@ -1,6 +1,20 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+description: 
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+author: Technovision
+authorEmoji: 
+pinned: false
+tags:
+- 
+series:
+-
+categories:
+- 
+image: images/posts/
 ---
-
+{{< featuredImage >}}

@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - Technovision
     subtitle:
-      - The world’s fastest framework for building websites
+      - Air is free but compresed air is not.
     titleColor: 
     titleShadow: true
     titleFontSize: 44

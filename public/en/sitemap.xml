@@ -3,416 +3,416 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/en/showcase/hugo/hugo-theme-zzo/</loc>
+    <loc>/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/showcase/hugo/hugo-theme-zdoc/</loc>
+    <loc>/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/</loc>
+    <loc>/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/"
+                href="/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/publication/article/</loc>
+    <loc>/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/publication/book/</loc>
+    <loc>/publication/book/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/publication/misc/</loc>
+    <loc>/publication/misc/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/posts/"
+                href="/ko/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/"
+                href="/posts/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/shortcode/</loc>
+    <loc>/tags/shortcode/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/shortcodes/</loc>
+    <loc>/posts/shortcodes/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/tags/"
+                href="/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/showcase/hugo/</loc>
+    <loc>/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/showcase/</loc>
+    <loc>/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/categories/"
+                href="/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/css/</loc>
+    <loc>/tags/css/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/html/</loc>
+    <loc>/tags/html/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/markdown/</loc>
+    <loc>/tags/markdown/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/markdown-syntax/</loc>
+    <loc>/posts/markdown-syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/series/</loc>
+    <loc>/series/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/series/"
+                href="/ko/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/series/"
+                href="/series/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/categories/syntax/</loc>
+    <loc>/categories/syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/themes/</loc>
+    <loc>/tags/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/categories/themes/</loc>
+    <loc>/categories/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/series/themes-guide/</loc>
+    <loc>/series/themes-guide/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/privacy/</loc>
+    <loc>/tags/privacy/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/rich-content/</loc>
+    <loc>/posts/rich-content/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/shortcodes/</loc>
+    <loc>/tags/shortcodes/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/categories/hugo/</loc>
+    <loc>/categories/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/syntax-highlight/</loc>
+    <loc>/posts/syntax-highlight/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/math-typesetting/</loc>
+    <loc>/posts/math-typesetting/</loc>
     <lastmod>2019-12-17T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/amoji/</loc>
+    <loc>/tags/amoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/bamoji/</loc>
+    <loc>/tags/bamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/emoji/</loc>
+    <loc>/tags/emoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/emoji-support/</loc>
+    <loc>/posts/emoji-support/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/gamoji/</loc>
+    <loc>/tags/gamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/namoji/</loc>
+    <loc>/tags/namoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/categories/diagram/</loc>
+    <loc>/categories/diagram/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/test-viz/</loc>
+    <loc>/posts/test-viz/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/test-wavedrom/</loc>
+    <loc>/posts/test-wavedrom/</loc>
     <lastmod>2019-11-18T18:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/test-chartjs/</loc>
+    <loc>/posts/test-chartjs/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/test-js-sequence-diagrams/</loc>
+    <loc>/posts/test-js-sequence-diagrams/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/diagram/</loc>
+    <loc>/tags/diagram/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/test-mermaid/</loc>
+    <loc>/posts/test-mermaid/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/categories/math/</loc>
+    <loc>/categories/math/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/test-mathjax/</loc>
+    <loc>/posts/test-mathjax/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/test-katex/</loc>
+    <loc>/posts/test-katex/</loc>
     <lastmod>2019-11-15T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/test-flowchart/</loc>
+    <loc>/posts/test-flowchart/</loc>
     <lastmod>2019-11-14T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/gallery/cartoon/</loc>
+    <loc>/gallery/cartoon/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/gallery/cartoon/"
+                href="/ko/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/gallery/cartoon/"
+                href="/gallery/cartoon/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/gallery/</loc>
+    <loc>/gallery/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/gallery/"
+                href="/ko/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/gallery/"
+                href="/gallery/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/gallery/photo/</loc>
+    <loc>/gallery/photo/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/gallery/photo/"
+                href="/ko/gallery/photo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/gallery/photo/"
+                href="/gallery/photo/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/presentation/dir/fourth/</loc>
+    <loc>/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/presentation/</loc>
+    <loc>/presentation/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/presentation/third/</loc>
+    <loc>/presentation/third/</loc>
     <lastmod>2019-10-30T20:46:30+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/presentation/second/</loc>
+    <loc>/presentation/second/</loc>
     <lastmod>2019-10-30T20:45:24+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/presentation/first/</loc>
+    <loc>/presentation/first/</loc>
     <lastmod>2019-10-30T19:45:20+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/archive/</loc>
+    <loc>/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/archive/"
+                href="/ko/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/archive/"
+                href="/archive/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/about/"
+                href="/ko/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/about/"
+                href="/about/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/publication/article/article_any_folder_name_1/</loc>
+    <loc>/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/publication/book/book_any_folder_name_1/</loc>
+    <loc>/publication/book/book_any_folder_name_1/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/publication/misc/misc_any_folder_name_1/</loc>
+    <loc>/publication/misc/misc_any_folder_name_1/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/index/</loc>
+    <loc>/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/tags/index/"
+                href="/ko/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/index/"
+                href="/tags/index/"
                 />
   </url>
   

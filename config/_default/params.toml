@@ -4,7 +4,7 @@ description = "Technovision"
 custom_css = []
 custom_js = []
 useFaviconGenerator = false # https://www.favicon-generator.org/
-meta_image = "/images/whoami/avatar.png"
+meta_image = "/images/whoami/avatar.jpg"
 themecolor = "#212121"
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
@@ -16,8 +16,8 @@ notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "quotes", "
 viewportSize = "normal" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = true
-enablePinnedPosts = false
-minItemsToShowInTagCloud = 2 # Minimum items to show in tag cloud
+enablePinnedPosts = true
+minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 
 # appbar
 enableAppbarSearchIcon = true
@@ -59,12 +59,12 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "Nitin Patel"
-email = ""
+myname = "Technovision"
+email = "nitin.designtech@gmail.com"
 whoami = ""
-bioImageUrl = "/images/whoami/avatar.png"
+bioImageUrl = "/images/whoami/avatar.jpg"
 useGravatar = false
-location = ""
+location = "Ahmedabad, Gujarat"
 organization = ""
 link = ""
 
@@ -117,18 +117,18 @@ commento = false
   dataLimit = 5
 
 [socialOptions]
-  email = "mailto:"
+  email = "mailto:nitin.designtech@gmail.com"
   phone = ""
-  facebook = ""
+  facebook = "https://www.facebook.com/patel.nitin.372"
   twitter = ""
   github = ""
   stack-overflow = ""
-  instagram = ""
+  instagram = "https://www.instagram.com/nitin.patel9099/"
   google-plus = ""
   youtube = ""
   medium = ""
   tumblr = ""
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/in/nitin-patel-38b1a2140/"
   pinterest = ""
   stack-exchange = ""
   telegram = ""
@@ -157,9 +157,6 @@ commento = false
 
 [[share]]
   name = "facebook"
-[[share]]
-  name = "twitter"
-  username = "Hacking_Tiger"
 [[share]]
   name = "linkedin"
 [[share]]
