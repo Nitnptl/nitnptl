@@ -2,7 +2,7 @@ baseURL = ""
 title = "Technovision"
 theme = "zzo"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = ""
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = false
 
