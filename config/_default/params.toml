@@ -1,26 +1,26 @@
 logoText = "Technovision"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "Technovision"
 custom_css = []
 custom_js = []
 useFaviconGenerator = false # https://www.favicon-generator.org/
-meta_image = ""
-themecolor = ""
+meta_image = "/images/whoami/avatar.png"
+themecolor = "#212121"
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
-notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
-notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInHome = ["contact", "talks", "quotes", "about", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume", "talks", "gallery"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
-notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
+notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "quotes", "showcase", "publication", "presentation", "resume", "gallery"]
 
 viewportSize = "normal" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
-hideSingleContentsWhenJSDisabled = false
-enablePinnedPosts = true
-minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
+hideSingleContentsWhenJSDisabled = true
+enablePinnedPosts = false
+minItemsToShowInTagCloud = 2 # Minimum items to show in tag cloud
 
 # appbar
-enableAppbarSearchIcon = false
+enableAppbarSearchIcon = true
 enableAppbarLangIcon = false
 
 # header
@@ -28,7 +28,10 @@ homeHeaderType = "text" # text, img, slide, typewriter
 hideHomeHeaderWhenMobile = false
 
 # menu
-showMobileMenuTerms = ["tags", "categories", "series"]
+showMobileMenuTerms = ["categories", "series"]
+
+# navbar
+enableThemeChange = true
 
 # body
 enableBreadcrumb = true
@@ -56,14 +59,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
-bioImageUrl = ""
+myname = "Nitin Patel"
+email = ""
+whoami = ""
+bioImageUrl = "/images/whoami/avatar.png"
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = ""
+organization = ""
+link = ""
 
 # sidebar
 enableBio = true
@@ -82,14 +85,13 @@ enableTocSwitch = true
 itemsPerCategory = 5
 sidebarPosition = "right"
 tocLevels = ["h2", "h3", "h4"]
-enableSidebarPostsByOrder = false
+enableSidebarPostsByOrder = true
 
 # footer
 showPoweredBy = true
 showFeedLinks = true
 showSocialLinks = true
-enableLangChange = true
-enableThemeChange = true
+enableLangChange = false
 
 # service
 googleTagManager = "" # GTM-XXXXXX
@@ -100,8 +102,8 @@ busuanziSitePV = true
 busuanziPagePV = true
 
 # rss
-updatePeriod = "" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
-updateFrequency = ""
+updatePeriod = "hourly" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
+updateFrequency = "1"
 fullContents = false
 
 # comment
@@ -114,54 +116,12 @@ commento = false
   siteId = ""
   dataLimit = 5
 
-[gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
-  clientId = ""           # Your client ID
-  clientSecret = ""       # Your client secret
-
-[utterances]       # https://utteranc.es/
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
-
-[gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
-  clientId = ""           # Your client ID
-  clientSecret = ""       # Your client secret
-
-# Valine.
-# You can get your appid and appkey from https://leancloud.cn
-# more info please open https://valine.js.org
-[valine]
-  enable = false
-  appId = '你的appId'
-  appKey = '你的appKey'
-  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
-  verify = false # Verification code
-  avatar = 'mm' 
-  placeholder = '说点什么吧...'
-  visitor = false
-
-[changyan]
-  changyanAppid = ""        # Changyan app id             # 畅言
-  changyanAppkey = ""       # Changyan app key
-
-[livere]
-  livereUID = ""            # LiveRe UID                  # 来必力
-
-# Isso: https://posativ.org/isso/
-[isso]
-  enable = false
-  scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
-  dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
-
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = "mailto:"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = ""
+  twitter = ""
+  github = ""
   stack-overflow = ""
   instagram = ""
   google-plus = ""
@@ -195,16 +155,32 @@ commento = false
   paypal = ""
   patreon = ""
 
-# possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line", "pocket", "feedly", "hatena", "pinterest", "delicious", "google"]
 [[share]]
   name = "facebook"
-  username = ""
 [[share]]
   name = "twitter"
-
-[[footerLinks]]
-  name = ""
-  link = ""
-[[footerLinks]]
-  name = ""
-  link = ""
+  username = "Hacking_Tiger"
+[[share]]
+  name = "linkedin"
+[[share]]
+  name = "telegram"
+[[share]]
+  name = "reddit"
+[[share]]
+ name = "tumblr"
+[[share]]
+ name = "google"
+[[share]]
+ name = "whatsapp"
+[[share]]
+ name = "pocket"
+[[share]]
+ name = "feedly"
+[[share]]
+ name = "pinterest"
+#[[footerLinks]]
+#  name = ""
+#  link = ""
+#[[footerLinks]]
+#  name = ""
+#  link = ""
