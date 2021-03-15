@@ -94,7 +94,7 @@ showSocialLinks = true
 enableLangChange = false
 
 # service
-googleTagManager = "" # GTM-XXXXXX
+googleTagManager = "GTM-MC936L3" # GTM-XXXXXX
 baiduAnalytics = ""
 enableBusuanzi = false
 busuanziSiteUV = true
