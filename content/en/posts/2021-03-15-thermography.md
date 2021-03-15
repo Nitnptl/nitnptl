@@ -6,13 +6,13 @@ description: Thermography is a test that uses an infrared camera to detect heat
   (DITI) is the type of thermography that's used to diagnose breast cancer. DITI
   reveals temperature differences on the surface of the breasts to diagnose
   breast cancer.
-draft: true
-hideToc: true
+draft: false
+hideToc: false
 enableToc: true
 enableTocContent: true
 author: Technovision
 authorEmoji: ✍
-pinned: true
+pinned: false
 image: /images/posts/thermography.jpg
 tags:
   - thermography
