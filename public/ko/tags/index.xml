@@ -11,6 +11,8 @@
     <description>Recent content in Tags on Technovision</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>ko</language>
+    <managingEditor>nitin.designtech@gmail.com (Technovision)</managingEditor>
+    <webMaster>nitin.designtech@gmail.com (Technovision)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -18,24 +20,6 @@
         <atom:link href="/ko/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
-      
-      <item>
-        <title>index</title>
-        <link>/ko/tags/index/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        
-        <guid>/ko/tags/index/</guid>
-        <description></description>
-        
-        <dc:creator>Nitin Patel</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
       
 
     

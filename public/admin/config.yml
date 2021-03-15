@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  branch: main # Branch to update (optional; defaults to master)
 media_folder: static/images/posts
 public_folder: /images/posts
 collections:
@@ -27,71 +27,3 @@ collections:
       - { label: 'Categories', name: 'categories', widget: 'list'}
       - { label: 'Series', name: 'series', widget: 'list'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'Talks'
-    label: 'Talks'
-    folder: '/content/en/talks/'
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Tags', name: 'tags', widget: 'list'}
-      - { label: 'Categories', name: 'categories', widget: 'list'}
-      - { label: 'Series', name: 'series', widget: 'list'}
-      - { label: 'Title Wrap', name: 'titlewrap', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: "BadAss Quotes"
-    label: "BadAss Quotes"
-    folder: "/content/en/quotes/badass/"
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Weight', name: 'weight', widget: 'string'}
-      - { label: 'Pinned', name: 'pinned', widget: 'boolean'}
-  - name: "Inspirational Quotes"
-    label: "Inspirational Quotes"
-    folder: "/content/en/quotes/inspirational/"
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Weight', name: 'weight', widget: 'string'}
-      - { label: 'Pinned', name: 'pinned', widget: 'boolean'}
-  - name: "Love Quotes"
-    label: "Love Quotes"
-    folder: "/content/en/quotes/love/"
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Weight', name: 'weight', widget: 'string'}
-      - { label: 'Pinned', name: 'pinned', widget: 'boolean'}
-  - name: "Sad Quotes"
-    label: "Sad Quotes"
-    folder: "/content/en/quotes/sad/"
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Weight', name: 'weight', widget: 'string'}
-      - { label: 'Pinned', name: 'pinned', widget: 'boolean'}

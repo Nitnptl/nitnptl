@@ -11,6 +11,8 @@
     <description>Recent content in index on Technovision</description>
     <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
     <language>en</language>
+    <managingEditor>nitin.designtech@gmail.com (Technovision)</managingEditor>
+    <webMaster>nitin.designtech@gmail.com (Technovision)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -22,8 +24,8 @@
       <item>
         <title>Posts</title>
         <link>/posts/</link>
-        <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
-        
+        <pubDate>Tue, 23 Feb 2021 20:34:39 +0530</pubDate>
+        <author>nitin.designtech@gmail.com (Technovision)</author>
         
         <guid>/posts/</guid>
         <description></description>

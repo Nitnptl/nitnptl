@@ -1,14 +1,14 @@
 logoText = "Technovision"
 logoType = "short" # long, short
-description = "Technovision"
+description = "Get weakly news related to different kind of new, tips, tricks, etc. If you have your own theory or story then comment down in the post."
 custom_css = []
 custom_js = []
 useFaviconGenerator = false # https://www.favicon-generator.org/
-meta_image = "/images/whoami/avatar.jpg"
+meta_image = "/images/whoami/avatar.png"
 themecolor = "#212121"
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
-notAllowedTypesInHome = ["contact", "talks", "quotes", "about", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInHome = ["contact", "talks", "quotes", "about", "showcase", "publication", "presentation", "resume", "gallery"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume", "talks", "gallery"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "quotes", "showcase", "publication", "presentation", "resume", "gallery"]
@@ -16,8 +16,8 @@ notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "quotes", "
 viewportSize = "normal" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = true
-enablePinnedPosts = true
-minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
+enablePinnedPosts = false
+minItemsToShowInTagCloud = 2 # Minimum items to show in tag cloud
 
 # appbar
 enableAppbarSearchIcon = true
@@ -96,7 +96,7 @@ enableLangChange = false
 # service
 googleTagManager = "GTM-MC936L3" # GTM-XXXXXX
 baiduAnalytics = ""
-enableBusuanzi = false
+enableBusuanzi = true
 busuanziSiteUV = true
 busuanziSitePV = true
 busuanziPagePV = true

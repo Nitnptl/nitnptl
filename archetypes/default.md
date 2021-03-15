@@ -7,7 +7,7 @@ hideToc: false
 enableToc: true
 enableTocContent: false
 author: Technovision
-authorEmoji: 
+authorEmoji: ✍️
 pinned: false
 tags:
 - 

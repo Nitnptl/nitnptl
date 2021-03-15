@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>industrial automation on Technovision</title>
+    <link>/categories/industrial-automation/</link>
+    <description>Recent content in industrial automation on Technovision</description>
+    <generator>Hugo -- gohugo.io</generator><hosted>Netlify -- netlify.com</hosted>
+    <language>en</language>
+    <managingEditor>nitin.designtech@gmail.com (Technovision)</managingEditor>
+    <webMaster>nitin.designtech@gmail.com (Technovision)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 23 Feb 2021 20:34:39 +0530</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+        <atom:link href="/categories/industrial-automation/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Low cost automation.</title>
+        <link>/posts/plc/</link>
+        <pubDate>Tue, 23 Feb 2021 20:34:39 +0530</pubDate>
+        <author>nitin.designtech@gmail.com (Technovision)</author>
+        <atom:modified>Tue, 23 Feb 2021 20:34:39 +0530</atom:modified>
+        <guid>/posts/plc/</guid>
+        <description>Presently, manufacturing industries are constantly facing the challenge to reduce cost through productivity improvement. Considering the uncertain volumes, increasing labour cost, fluctuating demands and changes in customer needs, the challenge is not to merely level up one time but also to sustain the trend continuously.
+Fluctuation in customer demand &amp;amp; increase in labour cost year on year leads to product cost increase. To overcome this and remain competitive, Productivity Improvement (PI) activities are a must.</description>
+        
+        <dc:creator>Technovision</dc:creator>
+        <media:content url="/images/posts/plc.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>factory automation</category>
+            
+          
+            
+              <category>industrial automation</category>
+            
+          
+            
+              <category>low cost automation</category>
+            
+          
+        
+        
+          
+            
+              <category>industrial automation</category>
+            
+          
+        
+        
+          
+            
+              <category>Industry 4.0</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
