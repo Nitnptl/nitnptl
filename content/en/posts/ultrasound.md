@@ -1,7 +1,7 @@
 ---
 title: "Ultrasound"
 date: 2021-03-18T20:03:05+05:30
-description: 
+description: "An ultrasound is an imaging test that uses sound waves to create a picture (also known as a sonogram) of organs, tissues, and other structures inside the body. Unlike x-rays, ultrasounds don’t use any radiation."
 draft: false
 hideToc: false
 enableToc: true
