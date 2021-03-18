@@ -9,13 +9,15 @@ description: Thermography is a test that uses an infrared camera to detect heat
 draft: false
 hideToc: false
 enableToc: true
-enableTocContent: true
+enableTocContent: false
 author: Technovision
 authorEmoji: ✍
 pinned: false
 image: /images/posts/thermography.jpg
 tags:
   - thermography
+  - heat
+  - temperature
 categories:
   - Audit
 ---
