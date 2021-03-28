@@ -107,8 +107,8 @@ updateFrequency = "1"
 fullContents = false
 
 # comment
-enableComment = false
-disqus_shortname = ""
+enableComment = true
+disqus_shortname = "technovision"
 commento = false
 
 [telegram]
