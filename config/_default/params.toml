@@ -60,7 +60,7 @@ typeIcon = "🎯"
 
 # whoami
 myname = "Technovision"
-email = "nitin.designtech@gmail.com"
+email = "nitin.patel9099@gmail.com"
 whoami = ""
 bioImageUrl = "/images/whoami/avatar.jpg"
 useGravatar = false
@@ -107,8 +107,8 @@ updateFrequency = "1"
 fullContents = false
 
 # comment
-enableComment = false
-disqus_shortname = ""
+enableComment = true
+disqus_shortname = "technovision"
 commento = false
 
 [telegram]
