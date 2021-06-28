@@ -6,7 +6,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Siddh Mistry
+author: Technovision
 authorEmoji: 🤯
 pinned: false
 tags:
