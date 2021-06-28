@@ -1,27 +1,30 @@
 ---
-title: "Face Detection using OpenCV + Python (🐍)"
+title: Face Detection using OpenCV + Python (🐍)
 date: 2021-06-21T16:05:37+05:30
-description: "Face detection is a computer technology being used in a variety of applications that identifies human faces in digital images. Face detection also refers to the psychological process by which humans locate and attend to faces in a visual scene."
+description: Face detection is a computer technology being used in a variety of
+  applications that identifies human faces in digital images. Face detection
+  also refers to the psychological process by which humans locate and attend to
+  faces in a visual scene.
 draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Siddh Mistry
+author: Er. Nitin Patel
 authorEmoji: 🤯
 pinned: false
-tags:
-- technology 
-- industrial automation
-- ubuntu
-- information
-- robotics
-series:
-- World
-categories:
-- Industrial automation
-- Simulation
-- technology
 image: https://i.ytimg.com/vi/t-MDoI7MuY0/maxresdefault.jpg
+tags:
+  - technology
+  - industrial automation
+  - ubuntu
+  - information
+  - robotics
+categories:
+  - Industrial automation
+  - Simulation
+  - technology
+series:
+  - World
 ---
 {{< featuredImage >}}
 
