@@ -117,18 +117,17 @@ commento = false
   dataLimit = 5
 
 [socialOptions]
-  email = "mailto:nitin.designtech@gmail.com"
+  email = "mailto:"
   phone = ""
-  facebook = "https://www.facebook.com/patel.nitin.372"
   twitter = ""
   github = ""
   stack-overflow = ""
-  instagram = "https://www.instagram.com/nitin.patel9099/"
+  instagram = ""
   google-plus = ""
   youtube = ""
   medium = ""
   tumblr = ""
-  linkedin = "https://www.linkedin.com/in/nitin-patel-38b1a2140/"
+  linkedin = ""
   pinterest = ""
   stack-exchange = ""
   telegram = ""
