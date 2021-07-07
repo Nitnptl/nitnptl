@@ -60,11 +60,11 @@ typeIcon = "🎯"
 
 # whoami
 myname = "Technovision"
-email = "nitin.patel9099@gmail.com"
+email = ""
 whoami = ""
 bioImageUrl = "/images/whoami/avatar.jpg"
 useGravatar = false
-location = "Ahmedabad, Gujarat"
+location = ""
 organization = ""
 link = ""
 
